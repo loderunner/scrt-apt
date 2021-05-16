@@ -3,7 +3,7 @@ Version: 0.0.0~alpha3
 Architecture: arm64
 Maintainer: Charles Francoise <charles.francoise@gmail.com>
 Installed-Size: 12672
-Filename: 0.0/scrt_0.0.0-alpha3_linux_arm64.deb
+Filename: main/scrt_0.0.0-alpha3_linux_arm64.deb
 Size: 3955702
 MD5sum: 218acc26db41d7f7cf176b0f03eb26b1
 SHA1: a376bbafae29877f9a5152b55b77457e41a34b54
@@ -17,7 +17,7 @@ Version: 0.0.0~alpha3
 Architecture: armhf
 Maintainer: Charles Francoise <charles.francoise@gmail.com>
 Installed-Size: 10816
-Filename: 0.0/scrt_0.0.0-alpha3_linux_armv6.deb
+Filename: main/scrt_0.0.0-alpha3_linux_armv6.deb
 Size: 4055606
 MD5sum: 137568d0bc2cb964eff670ead0cfd598
 SHA1: 9011ec14b48a41a5e261560570936c7c6d003aea
@@ -31,7 +31,7 @@ Version: 0.0.0~alpha3
 Architecture: armhf
 Maintainer: Charles Francoise <charles.francoise@gmail.com>
 Installed-Size: 10816
-Filename: 0.0/scrt_0.0.0-alpha3_linux_armv7.deb
+Filename: main/scrt_0.0.0-alpha3_linux_armv7.deb
 Size: 4053048
 MD5sum: b82f9be52432655c9e8ee31932665a12
 SHA1: b573b62fbbb010c08de949cb9619c3dcb6c215e7
@@ -45,7 +45,7 @@ Version: 0.0.0~alpha3
 Architecture: i386
 Maintainer: Charles Francoise <charles.francoise@gmail.com>
 Installed-Size: 10828
-Filename: 0.0/scrt_0.0.0-alpha3_linux_i386.deb
+Filename: main/scrt_0.0.0-alpha3_linux_i386.deb
 Size: 4023756
 MD5sum: 77b83f403435395193ace66bc9f30ee6
 SHA1: 1a938e438f0813ace9be2a15d83a628aaa4f015a
@@ -59,7 +59,7 @@ Version: 0.0.0~alpha3
 Architecture: amd64
 Maintainer: Charles Francoise <charles.francoise@gmail.com>
 Installed-Size: 13240
-Filename: 0.0/scrt_0.0.0-alpha3_linux_x86_64.deb
+Filename: main/scrt_0.0.0-alpha3_linux_x86_64.deb
 Size: 4359724
 MD5sum: ade5629df62403061c6d9eed8f042c6b
 SHA1: f1bcb885f6b4bec22712b509d77ab4015deb2fca

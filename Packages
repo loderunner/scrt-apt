@@ -1,33 +1,5 @@
 Package: scrt
 Version: 0.0.0~alpha11
-Architecture: arm64
-Maintainer: Charles Francoise <scrt@scrt.run>
-Installed-Size: 12608
-Filename: main/scrt_0.0.0-alpha11_linux_arm64.deb
-Size: 3957702
-MD5sum: 6d93d37d583535b2834d933bc976fe3b
-SHA1: eede9a34c80287a6fea98071fa72449f6a7896d3
-SHA256: f79c13eeba74e3c0b18947b397cad6c3a8fde6d37e4dbb53c4eb7550d7c62ff0
-Section: devel
-Homepage: https://github.com/loderunner/scrt
-Description: A secret manager for the command-line
-
-Package: scrt
-Version: 0.0.0~alpha11
-Architecture: amd64
-Maintainer: Charles Francoise <scrt@scrt.run>
-Installed-Size: 13224
-Filename: main/scrt_0.0.0-alpha11_linux_x86_64.deb
-Size: 4360916
-MD5sum: 6cb58197f56ebad6bb3d6cdcc2101b10
-SHA1: 4c93cbed5337f45ae33785ad8f47eed39ab4694d
-SHA256: 727e68ce5dae878706e05910898b2e05d854d1f2a5b5fcbd79c10e8de41c237c
-Section: devel
-Homepage: https://github.com/loderunner/scrt
-Description: A secret manager for the command-line
-
-Package: scrt
-Version: 0.0.0~alpha11
 Architecture: i386
 Maintainer: Charles Francoise <scrt@scrt.run>
 Installed-Size: 10812
@@ -56,6 +28,20 @@ Description: A secret manager for the command-line
 
 Package: scrt
 Version: 0.0.0~alpha11
+Architecture: amd64
+Maintainer: Charles Francoise <scrt@scrt.run>
+Installed-Size: 13224
+Filename: main/scrt_0.0.0-alpha11_linux_x86_64.deb
+Size: 4360916
+MD5sum: 6cb58197f56ebad6bb3d6cdcc2101b10
+SHA1: 4c93cbed5337f45ae33785ad8f47eed39ab4694d
+SHA256: 727e68ce5dae878706e05910898b2e05d854d1f2a5b5fcbd79c10e8de41c237c
+Section: devel
+Homepage: https://github.com/loderunner/scrt
+Description: A secret manager for the command-line
+
+Package: scrt
+Version: 0.0.0~alpha11
 Architecture: armhf
 Maintainer: Charles Francoise <scrt@scrt.run>
 Installed-Size: 10816
@@ -69,29 +55,29 @@ Homepage: https://github.com/loderunner/scrt
 Description: A secret manager for the command-line
 
 Package: scrt
-Version: 0.0.0~alpha15
-Architecture: amd64
+Version: 0.0.0~alpha11
+Architecture: arm64
 Maintainer: Charles Francoise <scrt@scrt.run>
-Installed-Size: 13240
-Filename: main/scrt_0.0.0-alpha15_linux_x86_64.deb
-Size: 4360746
-MD5sum: 8fa6c3eeddc73e2845b7507a8b877c2e
-SHA1: b9d364e91e8071e00ed4994cdc0088980ecba220
-SHA256: 258a5370c237f2763297e5c3b7f97296866a021df7de309c3cb8e8626fa038f2
+Installed-Size: 12608
+Filename: main/scrt_0.0.0-alpha11_linux_arm64.deb
+Size: 3957702
+MD5sum: 6d93d37d583535b2834d933bc976fe3b
+SHA1: eede9a34c80287a6fea98071fa72449f6a7896d3
+SHA256: f79c13eeba74e3c0b18947b397cad6c3a8fde6d37e4dbb53c4eb7550d7c62ff0
 Section: devel
 Homepage: https://github.com/loderunner/scrt
 Description: A secret manager for the command-line
 
 Package: scrt
 Version: 0.0.0~alpha15
-Architecture: armhf
+Architecture: i386
 Maintainer: Charles Francoise <scrt@scrt.run>
-Installed-Size: 10816
-Filename: main/scrt_0.0.0-alpha15_linux_armv6.deb
-Size: 4056064
-MD5sum: 428327e0abb70361354c259cdd65fb9d
-SHA1: 991d51a57543671ff88d2673f875639d04efacea
-SHA256: e7a40b1a662aa5e802cc82f0636079dbbf59ab660c00cef9f802e89d3e0fee44
+Installed-Size: 10828
+Filename: main/scrt_0.0.0-alpha15_linux_i386.deb
+Size: 4023918
+MD5sum: 61bc416d1b3bc7f2d1ab95cbc0ec2d7f
+SHA1: c032b2289d338a828a177ac1062b0753b1b806d6
+SHA256: ebef9af57b38668cd2f3df12096527075204dfb2bd3062c3494f11341527ccb2
 Section: devel
 Homepage: https://github.com/loderunner/scrt
 Description: A secret manager for the command-line
@@ -112,6 +98,20 @@ Description: A secret manager for the command-line
 
 Package: scrt
 Version: 0.0.0~alpha15
+Architecture: armhf
+Maintainer: Charles Francoise <scrt@scrt.run>
+Installed-Size: 10816
+Filename: main/scrt_0.0.0-alpha15_linux_armv6.deb
+Size: 4056064
+MD5sum: 428327e0abb70361354c259cdd65fb9d
+SHA1: 991d51a57543671ff88d2673f875639d04efacea
+SHA256: e7a40b1a662aa5e802cc82f0636079dbbf59ab660c00cef9f802e89d3e0fee44
+Section: devel
+Homepage: https://github.com/loderunner/scrt
+Description: A secret manager for the command-line
+
+Package: scrt
+Version: 0.0.0~alpha15
 Architecture: arm64
 Maintainer: Charles Francoise <scrt@scrt.run>
 Installed-Size: 12672
@@ -126,14 +126,28 @@ Description: A secret manager for the command-line
 
 Package: scrt
 Version: 0.0.0~alpha15
-Architecture: i386
+Architecture: amd64
 Maintainer: Charles Francoise <scrt@scrt.run>
-Installed-Size: 10828
-Filename: main/scrt_0.0.0-alpha15_linux_i386.deb
-Size: 4023918
-MD5sum: 61bc416d1b3bc7f2d1ab95cbc0ec2d7f
-SHA1: c032b2289d338a828a177ac1062b0753b1b806d6
-SHA256: ebef9af57b38668cd2f3df12096527075204dfb2bd3062c3494f11341527ccb2
+Installed-Size: 13240
+Filename: main/scrt_0.0.0-alpha15_linux_x86_64.deb
+Size: 4360746
+MD5sum: 8fa6c3eeddc73e2845b7507a8b877c2e
+SHA1: b9d364e91e8071e00ed4994cdc0088980ecba220
+SHA256: 258a5370c237f2763297e5c3b7f97296866a021df7de309c3cb8e8626fa038f2
+Section: devel
+Homepage: https://github.com/loderunner/scrt
+Description: A secret manager for the command-line
+
+Package: scrt
+Version: 0.0.2
+Architecture: amd64
+Maintainer: Charles Francoise <scrt@scrt.run>
+Installed-Size: 13240
+Filename: main/scrt_0.0.2_linux_x86_64.deb
+Size: 4360760
+MD5sum: 115bcaebd37e99507c09512b1b053e13
+SHA1: cbc283acd9760b9368cde6019032f6107a0183d4
+SHA256: 7ac7eb6ebb73a084ce7dc068c67c1b4a4debfa221d72e017984b047ea522f773
 Section: devel
 Homepage: https://github.com/loderunner/scrt
 Description: A secret manager for the command-line
@@ -148,6 +162,20 @@ Size: 3957606
 MD5sum: d4ad6cc69d311d4fc46a42d025e1d9a8
 SHA1: 14539e316df6ca178bb74c018e110128db94cf2c
 SHA256: e79b85a654368d5903c2c5ff9c9d7f1f27b8918a2275bee4c9fe1662129711fa
+Section: devel
+Homepage: https://github.com/loderunner/scrt
+Description: A secret manager for the command-line
+
+Package: scrt
+Version: 0.0.2
+Architecture: i386
+Maintainer: Charles Francoise <scrt@scrt.run>
+Installed-Size: 10828
+Filename: main/scrt_0.0.2_linux_i386.deb
+Size: 4023644
+MD5sum: 7d9c74664a13040eaa02b52e6d63edfc
+SHA1: 7757076cce12de33c03129731fa26ab084ec4276
+SHA256: df266433cd26c05e88242f821993b0a65b020a2eca6686f21578f8180bf150a1
 Section: devel
 Homepage: https://github.com/loderunner/scrt
 Description: A secret manager for the command-line
@@ -181,29 +209,71 @@ Homepage: https://github.com/loderunner/scrt
 Description: A secret manager for the command-line
 
 Package: scrt
-Version: 0.0.2
-Architecture: amd64
+Version: 0.0.7
+Architecture: armhf
 Maintainer: Charles Francoise <scrt@scrt.run>
-Installed-Size: 13240
-Filename: main/scrt_0.0.2_linux_x86_64.deb
-Size: 4360760
-MD5sum: 115bcaebd37e99507c09512b1b053e13
-SHA1: cbc283acd9760b9368cde6019032f6107a0183d4
-SHA256: 7ac7eb6ebb73a084ce7dc068c67c1b4a4debfa221d72e017984b047ea522f773
+Installed-Size: 10816
+Filename: main/scrt_0.0.7_linux_armv6.deb
+Size: 4056022
+MD5sum: d33da424fccc4c723f55feda6feed2e3
+SHA1: 632238134e66101159d54abd9f2596865295ad18
+SHA256: 54a1dc184faeebab1b3998d3225bb6b52899b8d27190c1c9732d9c6866e45339
 Section: devel
 Homepage: https://github.com/loderunner/scrt
 Description: A secret manager for the command-line
 
 Package: scrt
-Version: 0.0.2
+Version: 0.0.7
+Architecture: amd64
+Maintainer: Charles Francoise <scrt@scrt.run>
+Installed-Size: 13240
+Filename: main/scrt_0.0.7_linux_x86_64.deb
+Size: 4360766
+MD5sum: 75aeacb354ecda1488cc32eb24b4e598
+SHA1: 42a04f3123d8ec652a923ea0f169eff1383ccb48
+SHA256: 6b9d6e2e2b31f44cef4c48fa9faffdb065e6149c0807847cb7b9e49a5328af9b
+Section: devel
+Homepage: https://github.com/loderunner/scrt
+Description: A secret manager for the command-line
+
+Package: scrt
+Version: 0.0.7
+Architecture: arm64
+Maintainer: Charles Francoise <scrt@scrt.run>
+Installed-Size: 12672
+Filename: main/scrt_0.0.7_linux_arm64.deb
+Size: 3957608
+MD5sum: c73bec8fcb2614855d450e0c2dc4ed6c
+SHA1: 092451fa2a74b0c6227c8183831de2e85ad758ad
+SHA256: b1323d0ab67c6921bc0871d6af85d0ad60aeab515bc6f1c572ba9f0829185610
+Section: devel
+Homepage: https://github.com/loderunner/scrt
+Description: A secret manager for the command-line
+
+Package: scrt
+Version: 0.0.7
 Architecture: i386
 Maintainer: Charles Francoise <scrt@scrt.run>
 Installed-Size: 10828
-Filename: main/scrt_0.0.2_linux_i386.deb
-Size: 4023644
-MD5sum: 7d9c74664a13040eaa02b52e6d63edfc
-SHA1: 7757076cce12de33c03129731fa26ab084ec4276
-SHA256: df266433cd26c05e88242f821993b0a65b020a2eca6686f21578f8180bf150a1
+Filename: main/scrt_0.0.7_linux_i386.deb
+Size: 4023646
+MD5sum: c39dab9e81e9764d1abd7f0645b02e48
+SHA1: 47241f4b2576be8b5b898d142a83373ced70bd6f
+SHA256: 17a38b40d8a55ab59af3f9b17104cd25d90324a423cb199a7e6577b7233af3b0
+Section: devel
+Homepage: https://github.com/loderunner/scrt
+Description: A secret manager for the command-line
+
+Package: scrt
+Version: 0.0.7
+Architecture: armhf
+Maintainer: Charles Francoise <scrt@scrt.run>
+Installed-Size: 10816
+Filename: main/scrt_0.0.7_linux_armv7.deb
+Size: 4053494
+MD5sum: 09e0cf5f7659dd99dbba42bd228d0401
+SHA1: b9c216bf189f452457d41d577448172781f37f14
+SHA256: 41ca6383f25670d2e3eeafb3defe691bcaa19c7ced97f38d763c704d2f53e653
 Section: devel
 Homepage: https://github.com/loderunner/scrt
 Description: A secret manager for the command-line
